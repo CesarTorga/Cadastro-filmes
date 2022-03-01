@@ -1,0 +1,15 @@
+D:\Workspace\DIO_interface\bin\Debug\net6.0\DIO_interface.exe
+D:\Workspace\DIO_interface\bin\Debug\net6.0\DIO_interface.deps.json
+D:\Workspace\DIO_interface\bin\Debug\net6.0\DIO_interface.runtimeconfig.json
+D:\Workspace\DIO_interface\bin\Debug\net6.0\DIO_interface.dll
+D:\Workspace\DIO_interface\bin\Debug\net6.0\DIO_interface.pdb
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.csproj.AssemblyReference.cache
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.AssemblyInfoInputs.cache
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.AssemblyInfo.cs
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.csproj.CoreCompileInputs.cache
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.dll
+D:\Workspace\DIO_interface\obj\Debug\net6.0\refint\DIO_interface.dll
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.pdb
+D:\Workspace\DIO_interface\obj\Debug\net6.0\DIO_interface.genruntimeconfig.cache
+D:\Workspace\DIO_interface\obj\Debug\net6.0\ref\DIO_interface.dll
